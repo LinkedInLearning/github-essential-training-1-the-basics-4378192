@@ -8,7 +8,7 @@ Option B: If you would like to work locally on your machine, you must have the f
 - (for MacOS) [https://brew.sh/]
 - (for Windows) [https://github.com/cli/cli#windows]
 
-, you can install CoPilot for CLI. This brings GitHub Copilot assistance right into your terminal.
+While not required, you can install CoPilot for CLI. This brings GitHub Copilot assistance right into your terminal.
 There is a waitlist currently (Spring 2023) for this service. You can learn more at [GitHub Copilot for CLI] and [GitHub CoPilot for CLI install guide] and 
 
 Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
